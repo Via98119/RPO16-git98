@@ -5,7 +5,7 @@ name: "Build and push to dev branch"
 on:
   push:
     branches:
-      - "main"
+      - "master"
 
 # only for a creation and editing new branches during auto-mode process
 permissions:
